@@ -40,4 +40,6 @@
 
 **⭐ If you found this useful, give it a star!**
 
-Made by Atharv Kiran Bhoir
+Made by--> Atharv Kiran Bhoir
+           Atharva Avhad
+           Arya Bhagwat
